@@ -2,9 +2,9 @@
     "name": "tosu-boo",
     "description": "Modified for theOpenSourceU.org, a beautiful, clean, and responsive theme for Ghost.",
     "demo": "http://boo-demo.tenoku.com",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
-        "ghost": "^1.0.0"
+        "ghost": "^1.0.1"
     },
     "license": "MIT",
     "screenshots": {
@@ -41,6 +41,6 @@
     "bugs": "https://github.com/tenoku/boo/issues",
     "contributors": "https://github.com/tenoku/boo/graphs/contributors",
     "config": {
-        "posts_per_page": 4
+        "posts_per_page": 5
     }
 }
