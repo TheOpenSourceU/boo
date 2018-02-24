@@ -1,6 +1,6 @@
 {
-    "name": "boo",
-    "description": "A beautiful, clean, and responsive theme for Ghost.",
+    "name": "tosu-boo",
+    "description": "Modified for theOpenSourceU.org, a beautiful, clean, and responsive theme for Ghost.",
     "demo": "http://boo-demo.tenoku.com",
     "version": "1.0.0",
     "engines": {
